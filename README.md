@@ -14,7 +14,7 @@ Create a **Single Page Application(SPA)** using *HTML/JavaScript/BootStrap CSS* 
 
 #### Create MySQL Database
 ```
-sudo mysql < exam2Practice.sql
+sudo mysql < exam2Practical.sql
 ```
 
 #### Run the WEB API

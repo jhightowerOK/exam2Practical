@@ -6,6 +6,7 @@ const PORT = 3000;
 
 // Middleware for parsing JSON requests
 app.use(express.json());
+app.use(express.static('public'));
 
 // Routes
 app.use("/api/users", userRoutes);
